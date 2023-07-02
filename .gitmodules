@@ -1,3 +1,6 @@
 [submodule "sdtd-medical-mod"]
 	path = sdtd-medical-mod
 	url = git@github.com:DZDcyj/sdtd-medical-mod.git
+[submodule "7guns"]
+	path = 7guns
+	url = git@github.com:Yay4k0/7guns.git
