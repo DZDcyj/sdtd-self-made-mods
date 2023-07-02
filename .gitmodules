@@ -1,0 +1,3 @@
+[submodule "sdtd-medical-mod"]
+	path = sdtd-medical-mod
+	url = git@github.com:DZDcyj/sdtd-medical-mod.git
